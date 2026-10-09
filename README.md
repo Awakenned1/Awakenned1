@@ -1,6 +1,6 @@
 # Hi, I'm Nkosinam Dlungwana 👋
 
-**IT Solution Manager @ Technologies South Africa · Founder of TamaTech Business Solutions**
+**IT Solution Manager  · Founder of TamaTech Business Solutions**
 
 I work where enterprise infrastructure meets practical software. By day I help enterprise clients across South Africa design and modernise their data centres. Outside of that I build digital products through my own company.
 
@@ -8,7 +8,7 @@ I work where enterprise infrastructure meets practical software. By day I help e
 
 ### 🏢 What I do
 
-- **Data Center Solution Sales @ Huawei.** I design and present storage and data-protection solutions (OceanStor Dorado, OceanProtect, OceanStor Pacific) for enterprise clients.
+- **Data Center Solution Sales.** I design and present storage and data-protection solutions (OceanStor Dorado, OceanProtect, OceanStor Pacific) for enterprise clients.
 - **Founder @ TamaTech Business Solutions.** TamaTech is a Sandton-based digital and technology company. We build websites, software, mobile apps and AI solutions, and we also do graphic design, digital marketing and business compliance.
 - **Full-stack builder.** I work across the whole stack, from front-end interfaces to cloud infrastructure on Huawei Cloud, Firebase and Vercel.
 
