@@ -14,7 +14,7 @@ I work where enterprise infrastructure meets practical software. By day I help e
 
 ### 🚀 What I'm building
 
-- **DigiCard:** NFC-powered digital business cards and a lead-generation SaaS
+-**Custom Software:**We build websites, software, mobile app
 - **AI solutions:** voice agents and AI assistants for real businesses
 - **E-commerce:** Shopify stores and digital marketplaces for clients
 
